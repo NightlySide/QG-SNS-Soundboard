@@ -5,7 +5,7 @@
     "background_color": "#fafafa",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://ieta-docs.ddns.net/soundboard/",
+    "start_url": "https://nightlyside.github.io/QG-SNS-Soundboard/",
     "icons": [
         {
             "src": "assets/icons/icon-72x72.png",
