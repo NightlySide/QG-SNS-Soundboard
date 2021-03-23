@@ -1,0 +1,138 @@
+{
+  "filters": ["vieux-selection", "young-selection"],
+  "categories": ["Gaming sound effect", "Bitconnect", "GTA", "YTP"],
+  "sounds": [
+    {
+      "name": "Batman Transition",
+      "file": "batman_transition.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Bonk",
+      "file": "bonk.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Bruh",
+      "file": "bruh.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Cinema sins",
+      "file": "cinema_sins.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Gangsta Paradise",
+      "file": "gangsta_paradise.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Mission passed",
+      "file": "gta_mission_passed.mp3",
+      "filter": "young-selection",
+      "category": "GTA"
+    },
+    {
+      "name": "Wasted",
+      "file": "gta_wasted.mp3",
+      "filter": "young-selection",
+      "category": "GTA"
+    },
+    {
+      "name": "Heavenly music",
+      "file": "heavenly_music.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Hey hey heyyy",
+      "file": "hey_hey_hey.ogg",
+      "filter": "vieux-selection",
+      "category": "Bitconnect"
+    },
+    {
+      "name": "J'ai débranché",
+      "file": "j_ai_debranche.ogg",
+      "filter": "vieux-selection",
+      "category": "YTP"
+    },
+    {
+      "name": "Autoroute/Pute",
+      "file": "je_ne_suis_pas_une_autoroute.ogg",
+      "filter": "vieux-selection",
+      "category": "YTP"
+    },
+    {
+      "name": "Law and Order",
+      "file": "law_and_special_order.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Mario Kart",
+      "file": "mario_kart_start.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Sad Violin",
+      "file": "sad_violin.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Sub UwU",
+      "file": "subuwu.ogg",
+      "filter": "vieux-selection",
+      "category": "YTP"
+    },
+    {
+      "name": "Suspense",
+      "file": "suspense.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "The chicken goes",
+      "file": "the_chicken_goes.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Wasso wasso",
+      "file": "wasso_wasso_wasso_bitconnect.ogg",
+      "filter": "vieux-selection",
+      "category": "Bitconnect"
+    },
+    {
+      "name": "XP Error",
+      "file": "win_xp_error.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "XP start",
+      "file": "win_xp_start.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "XP Shutdown",
+      "file": "win_xp_shutdown.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    },
+    {
+      "name": "Yoshi miem",
+      "file": "yoshi_miem.mp3",
+      "filter": "young-selection",
+      "category": "Gaming sound effect"
+    }
+  ]
+}
